@@ -64,9 +64,9 @@ Spider-Man: No Way Home has the highest popularity rate in our dataset and it ha
 year 2020 has the highest filmming rate in our dataset.
 
 #### Built with:
-JupyterLab
-Python3
-Pandas
-Numpy
-Matplotlib
-Seaborn
+- JupyterLab
+- Python3
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
