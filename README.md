@@ -1,6 +1,5 @@
 # Movies Dataset Analysis (9000+)
 
-### Medical Appointment No Show Dataset Analysis
 #### Contents
 Dataset Description
 Columns Descreption
